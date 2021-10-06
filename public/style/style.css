@@ -1,0 +1,53 @@
+body{
+    color: #2b2a3f;
+    background-color: #3fc68e;
+}
+
+#link {
+    font-size: 1.4em; display:block; margin: auto;
+}
+
+#btn-submit{
+    width: 100%;
+}
+
+form #mb-4{
+    border: 1px solid #EFEFEF;
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(219,219,219,1);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(219,219,219,1);
+    box-shadow: 10px 10px 5px 0px rgba(219,219,219,1);
+}
+
+.btn-group button{
+    margin-right: 5px;
+}
+
+.navbar{
+    background-color:#3cb684;
+}
+
+.container{
+    background-color: #bbe0d1;
+    padding-top: 10px;
+}
+
+hr.rounded {
+    border-top: 8px solid #2b2a3f;
+    border-radius: 5px;
+}
+
+.nonav {
+    background-color: #4AD295;
+}
+
+.btn-circle {
+    border-radius: 50%;
+}
+
+.bg-content {
+    width: 90%;
+    border-radius:1mm;
+}
